@@ -8,6 +8,7 @@ public class GitTestApplication {
 		System.out.println("Feature02");
 		System.out.println("Feature03");
 		System.out.println("Feature04");
+		System.out.println("Feature05");
 	}
 
 }
