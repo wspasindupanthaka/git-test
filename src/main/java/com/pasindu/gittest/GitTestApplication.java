@@ -13,6 +13,7 @@ public class GitTestApplication {
 		System.out.println("my feature 1");
 		System.out.println("my feature 2");
 		System.out.println("Feature_01");
+		System.out.println("Feature_02");
 	}
 
 }
